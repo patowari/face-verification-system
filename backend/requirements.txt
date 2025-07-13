@@ -1,0 +1,10 @@
+Flask
+Flask-CORS
+face-recognition
+opencv-python
+numpy
+Pillow
+dlib
+cmake
+wheel
+setuptools
