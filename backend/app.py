@@ -262,8 +262,8 @@ if __name__ == '__main__':
     
     # Start the server
     print("🚀 Face Verification API Server Starting...")
-    print("📍 Health check: http://localhost:5000/health")
-    print("🔍 Verify endpoint: http://localhost:5000/verify")
-    print("⚙️  Config endpoint: http://localhost:5000/config")
+    print("📍 Health check: http://localhost:5100/health")
+    print("🔍 Verify endpoint: http://localhost:5100/verify")
+    print("⚙️  Config endpoint: http://localhost:5100/config")
     
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    app.run(debug=True, host='0.0.0.0', port=5100)

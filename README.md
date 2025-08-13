@@ -77,7 +77,7 @@ The Flask backend includes configurable parameters:
 cd backend
 python app.py
 ```
-The API will be available at: `http://localhost:5000`
+The API will be available at: `http://localhost:5100`
 
 #### API Endpoints:
 - **POST /verify** - Main verification endpoint
